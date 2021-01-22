@@ -1,0 +1,75 @@
+[
+    {
+        "id" : 1,
+        "name" : "Product1",
+        "price" : "10",
+        "manufacturer": "manufacturer1",
+        "description" : "This is the description of the product1. It has been made by manufacutrer1 and the price is 10"
+    },
+    {
+        "id" : 2,
+        "name" : "Product2",
+        "price" : "20",
+        "manufacturer": "manufacturer2",
+        "description" : "This is the description of the product2. It has been made by manufacutrer2 and the price is 20"
+    },
+    {
+        "id" : 3,
+        "name" : "Product3",
+        "price" : "30",
+        "manufacturer": "manufacturer3",
+        "description" : "This is the description of the product3. It has been made by manufacutrer3 and the price is 30"
+    },
+    {
+        "id" : 4,
+        "name" : "Product4",
+        "price" : "40",
+        "manufacturer": "manufacturer4",
+        "description" : "This is the description of the product4. It has been made by manufacutrer4 and the price is 40"
+    },
+    {
+        "id" : 5,
+        "name" : "Product5",
+        "price" : "50",
+        "manufacturer": "manufacturer5",
+        "description" : "This is the description of the product5. It has been made by manufacutrer5 and the price is 50"
+    },
+    {
+        "id" : 6,
+        "name" : "Product6",
+        "price" : "60",
+        "manufacturer": "manufacturer6",
+        "description" : "This is the description of the product6. It has been made by manufacutrer6 and the price is 60"
+    },
+    {
+        "id" : 7,
+        "name" : "Product7",
+        "price" : "70",
+        "manufacturer": "manufacturer7",
+        "description" : "This is the description of the product7. It has been made by manufacutrer7 and the price is 70"
+    },
+    {
+        "id" : 8,
+        "name" : "Product8",
+        "price" : "80",
+        "manufacturer": "manufacturer8",
+        "description" : "This is the description of the product8. It has been made by manufacutrer8 and the price is 80"
+
+    },
+    {
+        "id" : 9,
+        "name" : "Product9",
+        "price" : "90",
+        "manufacturer": "manufacturer9",
+        "description" : "This is the description of the product9. It has been made by manufacutrer9 and the price is 90"
+
+    },
+    {
+        "id" : 10,
+        "name" : "Product10",
+        "price" : "100",
+        "manufacturer": "manufacturer10",
+        "description" : "This is the description of the product10. It has been made by manufacutrer10 and the price is 100"
+
+    }
+]
