@@ -1,4 +1,4 @@
-#PROJECT 
+# DUMMY-PROJECT 
 
 
 Steps to run the backend server (Node.js). The following commands need to be run in backend folder
